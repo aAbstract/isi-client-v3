@@ -1,6 +1,9 @@
 # ISI Client
 Android/iOS Client for ISI Edge IoT Server
 
+## Tech Stack
+React Native + Expo CLI
+
 ## Features
 - **Cross-Platform:** Built using React Native, ensuring compatibility with both iOS and Android devices.
 - **Expo CLI:** Developed using Expo CLI for simplified development and deployment processes.
